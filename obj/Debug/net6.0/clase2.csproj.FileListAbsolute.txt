@@ -1,0 +1,20 @@
+F:\info a leer\c# curso\clase 2\obj\Debug\net6.0\clase2.csproj.AssemblyReference.cache
+F:\info a leer\c# curso\clase 2\obj\Debug\net6.0\clase2.GeneratedMSBuildEditorConfig.editorconfig
+F:\info a leer\c# curso\clase 2\obj\Debug\net6.0\clase2.AssemblyInfoInputs.cache
+F:\info a leer\c# curso\clase 2\obj\Debug\net6.0\clase2.AssemblyInfo.cs
+F:\info a leer\c# curso\clase 2\obj\Debug\net6.0\clase2.csproj.CoreCompileInputs.cache
+F:\info a leer\c# curso\clase2\obj\Debug\net6.0\clase2.csproj.AssemblyReference.cache
+F:\info a leer\c# curso\clase2\obj\Debug\net6.0\clase2.GeneratedMSBuildEditorConfig.editorconfig
+F:\info a leer\c# curso\clase2\obj\Debug\net6.0\clase2.AssemblyInfoInputs.cache
+F:\info a leer\c# curso\clase2\obj\Debug\net6.0\clase2.AssemblyInfo.cs
+F:\info a leer\c# curso\clase2\obj\Debug\net6.0\clase2.csproj.CoreCompileInputs.cache
+F:\info a leer\c# curso\clase2\bin\Debug\net6.0\clase2.exe
+F:\info a leer\c# curso\clase2\bin\Debug\net6.0\clase2.deps.json
+F:\info a leer\c# curso\clase2\bin\Debug\net6.0\clase2.runtimeconfig.json
+F:\info a leer\c# curso\clase2\bin\Debug\net6.0\clase2.dll
+F:\info a leer\c# curso\clase2\bin\Debug\net6.0\clase2.pdb
+F:\info a leer\c# curso\clase2\obj\Debug\net6.0\clase2.dll
+F:\info a leer\c# curso\clase2\obj\Debug\net6.0\refint\clase2.dll
+F:\info a leer\c# curso\clase2\obj\Debug\net6.0\clase2.pdb
+F:\info a leer\c# curso\clase2\obj\Debug\net6.0\clase2.genruntimeconfig.cache
+F:\info a leer\c# curso\clase2\obj\Debug\net6.0\ref\clase2.dll

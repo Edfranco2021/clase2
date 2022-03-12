@@ -1,0 +1,123 @@
+nicolas emperador entreno20:01
+Bien llegue a casa pongo el video
+Soy Nicolas Emperador
+Carolina Delgado20:01
+Buenas noches !
+dionisio lizarraga20:01
+Buenas a todos, excelente musica
+Tú20:01
+muy buneas tardes a todos
+Guillermo Leonardo Britos20:02
+Buenas Noches!
+Hugo Antonio Segura20:03
+Buenas noches para todos
+Brian Joel Chiaraviglio20:03
+buenas noches para todos
+Brian Joel Chiaraviglio20:04
+yo tengo git hub destkop y visual studio code y visual studio 2019 
+con esos programa estoy bien ?
+Guillermo Leonardo Britos20:05
+mi recomendacion para git
+Brian Joel Chiaraviglio20:05
+y sql server mangamente para bd por las dudas
+Guillermo Leonardo Britos20:05
+es que usen SourceTree
+tiene una interfaz grafica
+y es mucho mas facil de comprender
+Hugo Antonio Segura20:07
+jajaaja yo tambien uso desde el terminal
+Estela Escobar20:11
+https://www.computrabajo.com.ar/empleos-en-tucuman
+https://ar.jobrapido.com/?r=auto&l=Tucuman&utm_source=adwords&utm_medium=cpc&utm_campaign=ADWORDS_AR_GEO_DIRECT_SEARCH&utm_agid=2068246535&utm_kwid=19737232775&gclid=Cj0KCQiAmeKQBhDvARIsAHJ7mF544jR8Lkwh4Qgv-fBrw9XQlTDDh4Jg1SpNuz_6ub_1J1q9GEtSbgEaAsHNEALw_wcB
+Estela Escobar20:12
+https://cultura.amia.org.ar/?gclid=Cj0KCQiAmeKQBhDvARIsAHJ7mF7Jr_vOHjHjxyh1ZNui5FQvTMsB32tr2hOFyN1Z-Rt_wtIN5hc9xRcaAnhzEALw_wcB
+dionisio lizarraga20:14
+si quiere le decimos quienes estan presente por el chat, asi queda
+Brian Joel Chiaraviglio20:16
+uso github destkop yo
+no se si estan utilizando el mismo
+Hugo Antonio Segura20:18
+Yo uso git con bash
+Estela Escobar20:18
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+    
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine ("Hello Mono World");
+    }
+}
+dionisio lizarraga20:20
+si profe
+Brian Joel Chiaraviglio20:26
+si o si visual code ?
+dionisio lizarraga20:42
+si
+Guillermo Leonardo Britos20:42
+si
+Sarobean20:42
+si
+Brian Joel Chiaraviglio20:42
+si
+Juan Rodriguez20:42
+si
+nicolas emperador entreno20:42
+Si
+Carolina Delgado20:42
+si
+Paula Batalla20:42
+si
+Gabriel Girotti20:42
+si
+Fabricio Liquin20:42
+Si
+Giselle Ojeda20:42
+Si
+Hugo Antonio Segura20:42
+si
+Juan Pablo Miranda20:42
+si
+Brian Joel Chiaraviglio20:46
+me cruzo al negocio ante que me cierre, por si toma asistencia profe
+dionisio lizarraga20:47
+si profe
+Gabriel Girotti20:47
+quiere que le dejemos el presente de los que vamos estando?
+Gabriel Girotti20:49
+sisi
+Veronica Cecilia Benavidez20:57
+// Online C# Editor for free
+// Write, Edit and Run your C# code using C# Online Compiler
+    
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine ("Hello Mono World");
+    }
+}
+Estela Escobar20:59
+C#
+.net
+Estela Escobar21:02
+https://frtutneduar-my.sharepoint.com/personal/economiadelconocimiento_frt_utn_edu_ar/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Feconomiadelconocimiento%5Ffrt%5Futn%5Fedu%5Far%2FDocuments%2FAsistencia%20Curso%20FEBRERO
+Estela Escobar21:03
+https://frtutneduar-my.sharepoint.com/:x:/r/personal/economiadelconocimiento_frt_utn_edu_ar/_layouts/15/Doc.aspx?sourcedoc=%7B524B78A1-C028-4BF4-8744-9E57997F4B22%7D&file=asistenciaCsharp7-860-71.xlsx&action=default&mobileredirect=true
+Gabriel Girotti21:04
+me pide iniciar sesion
+Brian Joel Chiaraviglio21:04
+clñaro
+pide iniciar sesion
+dionisio lizarraga21:07
+si es la compu grande y el telefono
+disculpe
+dionisio lizarraga21:08
+presente profe
+dionisio lizarraga21:14
+si
