@@ -1,21 +1,26 @@
-﻿class Program
+﻿using System;
+
+namespace contador
 {
-    static void Main(string[] args)
+    class Program
     {
-        int positivos = 0; int conta = 0; int numero;
-        Console.WriteLine("Introduce número ");
-        numero = Int32.Parse(Console.ReadLine());
-        while (numero != 999)
+        static void Main(string[] args)
         {
-            conta = conta + 1;
-            if (numero > 0) positivos = positivos + 1;
+            int positivos = 0; int conta = 0; int numero;
             Console.WriteLine("Introduce número ");
             numero = Int32.Parse(Console.ReadLine());
-        }
-        Console.WriteLine("Has introducido un total de {0}", conta);
-        Console.WriteLine("y son positivos {0}", positivos);
+            while (numero != 999)
+            {
+                conta = conta + 1;
+                if (numero > 0) positivos = positivos + 1;
+                Console.WriteLine("Introduce número ");
+                numero = Int32.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("Has introducido un total de {0}", conta);
+            Console.WriteLine("y son positivos {0}", positivos);
 
-    } //fin Main
+        } //fin Main
+    }
 }
 
 /* programa para sumar 
